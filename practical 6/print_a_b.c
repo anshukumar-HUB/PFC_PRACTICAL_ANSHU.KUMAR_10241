@@ -1,6 +1,6 @@
 //1.Print numbers from a to b
-//Name- Ankit kumar prajapati 
-// ERP - 10215
+//Name-Anshu Kumar
+// ERP - 10241
 #include <stdio.h>
 
 int main() {
@@ -13,3 +13,4 @@ int main() {
     }
     return 0;
 }
+
