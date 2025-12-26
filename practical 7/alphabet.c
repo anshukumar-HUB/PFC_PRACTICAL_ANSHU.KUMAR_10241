@@ -1,6 +1,6 @@
 //Alphabet pattern
-//Name- Ankit kumar prajapati 
-// ERP - 10215
+//Name- Anshu Kumar
+// ERP - 10241
 #include <stdio.h>
 
 int main() {
@@ -18,4 +18,5 @@ int main() {
 //A
 //AB
 //ABC
+
 //ABCD
