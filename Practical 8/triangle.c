@@ -1,6 +1,6 @@
 // Right angled triangle
-//Name- Ankit kumar prajapati 
-// ERP - 10215
+//Name-Anshu Kumar 
+// ERP - 10241
 #include <stdio.h>
 
 void triangle(int n) {
@@ -20,3 +20,4 @@ int main() {
     triangle(n);
     return 0;
 }
+
