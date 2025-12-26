@@ -1,6 +1,6 @@
 //Hourglass
-//Name- Ankit kumar prajapati 
-// ERP - 10215
+//Name- Anshu kumar
+// ERP - 10241
 #include <stdio.h>
 
 int main() {
@@ -26,3 +26,4 @@ int main() {
 
     return 0;
 }
+
