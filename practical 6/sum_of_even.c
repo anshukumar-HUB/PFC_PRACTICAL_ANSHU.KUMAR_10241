@@ -1,6 +1,6 @@
 //sum of even number
-//Name- Ankit kumar prajapati 
-// ERP - 10215
+//Name-Anshu Kumar
+// ERP - 10241
 #include <stdio.h>
 
 int main() {
@@ -17,3 +17,4 @@ int main() {
     printf("Sum of even numbers = %d", sum);
     return 0;
 }
+
