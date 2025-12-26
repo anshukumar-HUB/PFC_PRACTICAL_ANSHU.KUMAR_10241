@@ -17,3 +17,8 @@ int main() {
     return 0;
 }
 
+
+//Output:
+// Enter your ATM pin:1234
+// Access granted.
+
