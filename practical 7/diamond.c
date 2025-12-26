@@ -1,6 +1,6 @@
 //Diamond of length 2n-1
-//Name- Ankit kumar prajapati 
-// ERP - 10215
+//Name- Anshu Kumar 
+// ERP - 10241
 #include <stdio.h>
 
 int main() {
@@ -26,3 +26,4 @@ int main() {
 
     return 0;
 }
+
