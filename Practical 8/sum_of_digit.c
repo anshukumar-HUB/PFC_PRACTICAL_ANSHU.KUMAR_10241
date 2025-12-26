@@ -1,6 +1,6 @@
 //Sum of digit
-//Name- Ankit kumar prajapati 
-// ERP - 10215
+//Name- Anshu kumar
+// ERP - 10241
 #include <stdio.h>
 
 int sumOfDigits(int n) {
@@ -20,3 +20,6 @@ int main() {
     printf("Sum of digits = %d", sumOfDigits(n));
     return 0;
 }
+
+//Output
+
