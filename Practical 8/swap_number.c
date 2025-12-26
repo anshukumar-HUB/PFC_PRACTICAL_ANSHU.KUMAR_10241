@@ -1,6 +1,6 @@
 //swap number
-//Name- Ankit kumar prajapati 
-// ERP - 10215
+//Name- Anshu Kumar
+// ERP - 10241
 #include <stdio.h>
 
 void swap(int *a, int *b) {
@@ -19,3 +19,4 @@ int main() {
     printf("After swapping: x = %d, y = %d", x, y);
     return 0;
 }
+
