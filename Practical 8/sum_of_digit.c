@@ -21,5 +21,7 @@ int main() {
     return 0;
 }
 
-//Output
+//output:
+//Enter your number:111
+//sum:3
 
