@@ -1,6 +1,6 @@
 //Sum of digit
-//Name- Ankit kumar prajapati 
-// ERP - 10215
+//Name- Anshu kumar
+// ERP - 10241
 
 #include <stdio.h>
 int main() {
@@ -19,4 +19,5 @@ int main() {
 //OUTPUT:
 // Sum of row 1 = 15
 // Sum of row 2 = 17
+
 // Sum of row 3 = 13
