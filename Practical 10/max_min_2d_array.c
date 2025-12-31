@@ -1,6 +1,6 @@
 //Sum of digit
-//Name- Ankit kumar prajapati 
-// ERP - 10215
+//Name-Anshu kumar 
+// ERP - 10241
 
 #include <stdio.h>
 int main() {
@@ -20,4 +20,5 @@ int main() {
 
 //OUTPUT:
 // Max = 9
+
 // Min = 1
