@@ -1,6 +1,6 @@
 //Sum of digit
-//Name- Ankit kumar prajapati 
-// ERP - 10215
+//Name-Anshu kumar
+// ERP - 10241
 
 
 #include <stdio.h>
@@ -24,4 +24,5 @@ int main() {
 
 //OUTPUT:
 // Original array: 1 2 3 4 5
+
 // Reversed array: 5 4 3 2 1
